@@ -6,9 +6,13 @@ import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './Techn
 const Technologies = () =>  (
   <Section id="tech">
     <SectionDivider />
+    <br />
     <SectionTitle>
       I worked with these Technologies
     </SectionTitle>
+    <SectionText>
+      I have worked with a huge range of technologies over the course of the years.
+    </SectionText>
     <List>
       <ListItem>
         <DiReact  size="3rem" />
@@ -111,9 +115,9 @@ const Technologies = () =>  (
       <ListItem>
       <DiRasberryPi  size="3rem" />
         <ListContainer>
-          <ListTitle>Database Systems</ListTitle>
+          <ListTitle>Gazebo and Gmapping</ListTitle>
           <ListParagraph>
-            Experience with mySQL and SQL developer
+            Experience with Gazebo similation and gmapping with the mapping software for autonomous robotics.
           </ListParagraph>
         </ListContainer>
       </ListItem>

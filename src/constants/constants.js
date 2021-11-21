@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Google Research ExploreCSR Autonomous Robotics Project',
     description: "GoogleCSR Autonomous Robot Exploration at Fordham University From February 22, 2021 - April 23, 2021. Autonomous Vehicle Exploration Project Internship under the supervision of Dr. Damien Lyons at Fordham University in the tri-state Explore Computer Science Research program. Using Robot Operating System (ROS) on Ubuntu Linux to create an autonomous vehicle algorithm to map a 2 dimensional area",
-      image: '/images/1.png',
+      image: '/images/GoogleCSR.png',
       tags: ['ROS', 'GAZEBO', 'GMapping', 'Python'],
     source: 'https://explorecsr.github.io/',
     visit: 'https://github.com/Dpinkney001/GoogleCSR-Autonomous-Robotics-Project-Spring-2021',
@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'Car Accident Analysis of zip code 10458',
     description:"I Chose this project because I was curious about the time frame of when most accidents occur. I also love cars as well. I found the data set on the NYC Open Data website at https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions-Crashes/h9gi-nx95 The data set was filtered to only used the data from the Bronx only from 2014 to the present date (2021). Then that dataset was further filtered to include only data from the 10458 zip code.",
-    image: '/images/2.png',
+    image: '/images/accidentproject.png',
     tags: ['Python', 'Jupyter Notebooks'],
     source: 'https://github.com/Dpinkney001/Data-Science-MAT328-Project-Spring-2021',
     visit: 'https://sites.google.com/view/dpinkney001/home',
