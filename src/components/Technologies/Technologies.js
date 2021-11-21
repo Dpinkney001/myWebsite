@@ -1,5 +1,5 @@
 import React from 'react';
-import { DiAndroid, DiFirebase, DiJava, DiPython, DiReact, DiZend } from 'react-icons/di';
+import { DiAndroid, DiDatabase, DiFirebase, DiJava, DiLinux, DiPython, DiRasberryPi, DiReact, DiZend } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -82,20 +82,47 @@ const Technologies = () =>  (
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiReact  size="3rem" />
+        
         <ListContainer>
-          <ListTitle>Front-End</ListTitle>
+          <ListTitle>Software Engineering</ListTitle>
           <ListParagraph>
-            Experience with React.js, Javascript, JSX, HTML and CSS
+            Experience with different software engineering methods and life cycles.
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiReact  size="3rem" />
+        <DiRasberryPi  size="3rem" />
         <ListContainer>
-          <ListTitle>Front-End</ListTitle>
+          <ListTitle>Digital Electronics</ListTitle>
           <ListParagraph>
-            Experience with React.js, Javascript, JSX, HTML and CSS
+            Experience with electronics and electrical circuits
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+      <DiDatabase  size="3rem" />
+        <ListContainer>
+          <ListTitle>Database Systems</ListTitle>
+          <ListParagraph>
+            Experience with mySQL and SQL developer
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+      <DiRasberryPi  size="3rem" />
+        <ListContainer>
+          <ListTitle>Database Systems</ListTitle>
+          <ListParagraph>
+            Experience with mySQL and SQL developer
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+      <DiLinux  size="3rem" />
+        <ListContainer>
+          <ListTitle>Operating Systems</ListTitle>
+          <ListParagraph>
+            Experience with Windows xp, 7, 8, 10, Linux, fedora
           </ListParagraph>
         </ListContainer>
       </ListItem>
