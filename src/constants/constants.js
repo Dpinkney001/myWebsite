@@ -3,7 +3,7 @@ export const projects = [
     title: 'Google Research ExploreCSR Autonomous Robotics Project',
     description: "GoogleCSR Autonomous Robot Exploration at Fordham University From February 22, 2021 - April 23, 2021. Autonomous Vehicle Exploration Project Internship under the supervision of Dr. Damien Lyons at Fordham University in the tri-state Explore Computer Science Research program. Using Robot Operating System (ROS) on Ubuntu Linux to create an autonomous vehicle algorithm to map a 2 dimensional area",
       image: '/images/GoogleCSR.png',
-      tags: ['ROS', 'GAZEBO', 'GMapping', 'Python'],
+      tags: ['ROS', 'GAZEBO', 'GMapping', 'Python', 'Ubuntu'],
     source: 'https://explorecsr.github.io/',
     visit: 'https://github.com/Dpinkney001/GoogleCSR-Autonomous-Robotics-Project-Spring-2021',
     id: 0,
