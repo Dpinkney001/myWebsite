@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'Artificial Intelligence Final Project',
     description: "A.I Class Real estate price prediction final project",
-      image: '/images/3.jpg',
+      image: '',
       tags: ['Python', 'Jupyter NoteBook', 'Google Colab'],
     source: 'https://github.com/Dpinkney001/Artificial-Intelligence-class/blob/main/AI%20Final%20Project.ipynb',
     visit: 'https://github.com/Dpinkney001/Artificial-Intelligence-class/blob/main/AI%20Final%20Project.ipynb',
@@ -29,7 +29,7 @@ export const projects = [
   {
     title: 'Wifi Chat Application',
     description: "Networking systems wifi chat application",
-    image: '/images/4.jpg',
+    image: '',
     tags: ['JAVA', 'TCP/IP'],
     source: 'https://github.com/Dpinkney001/cmp-405-networking-systems-project',
     visit: 'https://github.com/Dpinkney001/cmp-405-networking-systems-project',
@@ -47,5 +47,5 @@ export const TimeLineData = [
   { year: 2014, text: 'After graduating from Bronx Community College. I started Computer science degree program @ Lehman College', },
   { year: 2021, text: 'Started Google Research exploreCSR Internship for Autonomous Robotics', },
   { year: 2021, text: 'Created this webstite :-)', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2022, text: 'Will Start electrical/electronic technology at Suffolk Community College', },
 ];

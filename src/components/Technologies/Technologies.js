@@ -126,7 +126,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Operating Systems</ListTitle>
           <ListParagraph>
-            Experience with Windows xp, 7, 8, 10, Linux, fedora
+            Experience with Windows xp, 7, 8, 10, Linux, Fedora, Ubuntu
           </ListParagraph>
         </ListContainer>
       </ListItem>
