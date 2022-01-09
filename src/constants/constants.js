@@ -46,6 +46,6 @@ export const TimeLineData = [
   { year: 2011, text: 'Started Automotive technology program @ Bronx Community College'},
   { year: 2014, text: 'After graduating from Bronx Community College. I started Computer science degree program @ Lehman College', },
   { year: 2021, text: 'Started Google Research exploreCSR Internship for Autonomous Robotics', },
-  { year: 2021, text: 'Created this webstite :-)', },
+  { year: 2021, text: 'Created this website :-)', },
   { year: 2022, text: 'Will Start electrical/electronic technology at Suffolk Community College', },
 ];

@@ -45,8 +45,14 @@ const Timeline = () => {
   return (
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
-      <SectionText>
-        This section is about me
+      <SectionText> 
+      I'm a Lehman College student majoring in Computer Science. 
+      I am always open to trying new things and learning. 
+      Looking for a company to start my career with. 
+      Some of the skills I'm great at are problem-solving, working well with others, 
+      multi-tasking, organization, fast learning, and creative thinking. 
+      In addition, I've earned an Associate's Degree from Bronx community college in 
+      automotive technology.
 
       </SectionText>
       <CarouselContainer ref={carouselRef}>

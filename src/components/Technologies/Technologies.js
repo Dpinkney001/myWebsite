@@ -130,6 +130,87 @@ const Technologies = () =>  (
           </ListParagraph>
         </ListContainer>
       </ListItem>
+      <ListItem>
+      <DiLinux  size="3rem" />
+        <ListContainer>
+          <ListTitle>Braking Systems</ListTitle>
+          <ListParagraph>
+            Experience with Automotive Braking Systems
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+      <DiLinux  size="3rem" />
+        <ListContainer>
+          <ListTitle>Electrical Systems</ListTitle>
+          <ListParagraph>
+            Experience with Automotive Electrical Systems.
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+      <DiLinux  size="3rem" />
+        <ListContainer>
+          <ListTitle>Heating and Airconditioning Systems</ListTitle>
+          <ListParagraph>
+            Experience with Automotive Heating and Air Conditioning Systems.
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+      <DiLinux  size="3rem" />
+        <ListContainer>
+          <ListTitle>Automatic transmissions and trans-axle Systems</ListTitle>
+          <ListParagraph>
+            Experience with Automatic transmissions and trans-axle Systems.
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+      <DiLinux  size="3rem" />
+        <ListContainer>
+          <ListTitle>Manual Transmissions and trans-axle Systems</ListTitle>
+          <ListParagraph>
+            Experience with Manual Transmissions and trans-axle Systems.
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+      <DiLinux  size="3rem" />
+        <ListContainer>
+          <ListTitle>Engine Repair</ListTitle>
+          <ListParagraph>
+            Experience with Engine Repair.
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+      <DiLinux  size="3rem" />
+        <ListContainer>
+          <ListTitle>Engine Performance</ListTitle>
+          <ListParagraph>
+            Experience with Engine Performance.
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+      <DiLinux  size="3rem" />
+        <ListContainer>
+          <ListTitle>Diesel Engines</ListTitle>
+          <ListParagraph>
+            Experience Diesel Engines.
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+      <DiLinux  size="3rem" />
+        <ListContainer>
+          <ListTitle></ListTitle>
+          <ListParagraph>
+          https://www.amazon.com/gp/product/0984782850/ref=as_li_tl?ie=UTF8&tag=dpinkney001-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0984782850&linkId=a86943d387001a654d66a02b01a876da
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
     </List>
   </Section>
 );
