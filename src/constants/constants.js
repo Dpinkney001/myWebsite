@@ -49,3 +49,8 @@ export const TimeLineData = [
   { year: 2021, text: 'Created this website :-)', },
   { year: 2022, text: 'Will Start electrical/electronic technology at Suffolk Community College', },
 ];
+export const bookrecommendations = [
+  { bookname: "Cracking the coding interview"},
+  { booknamelink: 'https://www.amazon.com/gp/product/0984782850/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0984782850&linkCode=as2&tag=dpinkney001-20&linkId=7f5631de878c3c34569939b6d917ff68' },
+
+];

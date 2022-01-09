@@ -2,6 +2,7 @@ import React from 'react';
 import { DiAndroid, DiDatabase, DiFirebase, DiJava, DiLinux, DiPython, DiRasberryPi, DiReact, DiZend } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
+//import { ExternalLinks, Tag };
 
 const Technologies = () =>  (
   <Section id="tech">
@@ -205,9 +206,9 @@ const Technologies = () =>  (
       <ListItem>
       <DiLinux  size="3rem" />
         <ListContainer>
-          <ListTitle></ListTitle>
+          <ListTitle>Book Recommendations</ListTitle>
           <ListParagraph>
-          https://www.amazon.com/gp/product/0984782850/ref=as_li_tl?ie=UTF8&tag=dpinkney001-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0984782850&linkId=a86943d387001a654d66a02b01a876da
+            <a href="https://amzn.to/3JUvH8Z">Cracking the coding Interview</a>
           </ListParagraph>
         </ListContainer>
       </ListItem>
