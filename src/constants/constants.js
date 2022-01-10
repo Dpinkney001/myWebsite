@@ -47,7 +47,7 @@ export const TimeLineData = [
   { year: 2014, text: 'After graduating from Bronx Community College. I started Computer science degree program @ Lehman College', },
   { year: 2021, text: 'Started Google Research exploreCSR Internship for Autonomous Robotics', },
   { year: 2021, text: 'Created this website :-)', },
-  { year: 2022, text: 'Will Start electrical/electronic technology at Suffolk Community College', },
+  { year: 2022, text: '', },
 ];
 export const bookrecommendations = [
   { bookname: "Cracking the coding interview"},

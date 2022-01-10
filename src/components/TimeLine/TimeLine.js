@@ -34,7 +34,7 @@ const Timeline = () => {
 
   // // snap back to beginning of scroll when window is resized
   // // avoids a bug where content is covered up if coming from smaller screen
-   useEffect(() => {
+  useEffect(() => {
      const handleResize = () => {
        scroll(carouselRef.current, 0);
      }
@@ -55,7 +55,7 @@ const Timeline = () => {
       automotive technology.
 
       </SectionText>
-      <CarouselContainer ref={carouselRef}>
+      <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
         {TimeLineData.map((item, index) => (
           <CarouselMobileScrollNode key={index} final={index === TOTAL_CAROUSEL_COUNT - 1}>
@@ -98,6 +98,9 @@ const Timeline = () => {
                           </defs>
                     </CarouselItemImg>
               </CarouselItemTitle>
+              <CarouselItemText>
+                {item.text}
+              </CarouselItemText>
             </CarouselItem>
             </CarouselMobileScrollNode>
         ))}
@@ -111,7 +114,10 @@ const Timeline = () => {
               active={activeItem}
               onClick={(e) => handleClick(e, index)}
               type="button"
-              />
+              >
+                <CarouselButtonDot active={activeItem} />
+              </CarouselButton>
+
         ))}
       </CarouselButtons>
     </Section>
