@@ -208,7 +208,14 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Book Recommendations</ListTitle>
           <ListParagraph>
-            <a href="https://amzn.to/3JUvH8Z">Cracking the coding Interview</a>
+            <div><a href="https://amzn.to/3JUvH8Z">Cracking the coding Interview</a></div><br></br>
+            <div><a href="https://amzn.to/3q7Dt7N">Building Your Own Electronics Lab: A Guide to Setting Up Your Own Gadget Workshop (Technology in Action)</a></div><br></br>
+            <div><a href="https://amzn.to/3zF24nE">ROS Robotics Projects: Build and control robots powered by the Robot Operating System, machine learning, and virtual reality, 2nd Edition</a></div><br></br>
+            <div><a href="https://amzn.to/3tcEmxG">The art of electronics</a></div><br></br>
+            <div><a href="https://amzn.to/31HCwJT">Learning the Art of Electronics: A Hands-On Lab Course</a></div><br></br>
+            <div><a href="https://amzn.to/3f51czd">The Art of Electronics: The X chapters</a></div><br></br>
+            <div><a href="https://amzn.to/3JWyyhN">Practical Electronics for Inventors</a></div><br></br>
+            
           </ListParagraph>
         </ListContainer>
       </ListItem>
